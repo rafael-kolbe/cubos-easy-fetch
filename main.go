@@ -65,6 +65,7 @@ func main() {
 			fmt.Printf("Executando: %s\n", command)
 			if err := runCommand(command, repoName); err != nil {
 				fmt.Printf("Erro ao executar comando: %v\n", err)
+				break
 			}
 		}
 	}
