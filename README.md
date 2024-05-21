@@ -1,7 +1,7 @@
 # Cubos-Easy-Fetch
 
 ## Instalar Go
-Acesse o site [go.dev](https://go.dev) e siga as instruções de instalação para o seu sistema operacional.
+Acesse o site [go.dev](https://go.dev/doc/install) e siga as instruções de instalação para o seu sistema operacional.
 
 ## Baixar dependências
 ```bash
